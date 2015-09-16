@@ -1,0 +1,3 @@
+030-0361a00	TKD 32-0481a	buddhist/K-koreana/32-tif/0400-0499/32_0481_A.TIF
+000-0363a22	TKD 32-0481b	buddhist/K-koreana/32-tif/0400-0499/32_0481_B.TIF
+000-0363b12	TKD 32-0481c	buddhist/K-koreana/32-tif/0400-0499/32_0481_C.TIF
